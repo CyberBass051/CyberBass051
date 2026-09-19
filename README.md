@@ -1,36 +1,45 @@
 <div align="center">
-  <img src="https://github.com/CyberBass051/CyberBass051/blob/main/cyberbass-banner.png?raw=true" alt="Cyberbass Banner" width="100%" />
+Hi, I'm Pietro 👋
+Cloud & DevSecOps Engineer · Cybersecurity MSc (Pentesting & Forensics)
 
-  # Hi, I'm Pietro! 👋
-  ### Cybersecurity Student @ Grupo Atrium | Musician 🎸
+Building secure, automated cloud infrastructure — and testing it like an attacker would.
 
-  *Bridging the gap between creative discipline and digital defense.*
 </div>
+👨‍💻 About
 
-<br/>
+Cloud and DevSecOps engineer with a security-first approach: I design AWS infrastructure as code, automate its guardrails, and then probe it from the offensive side. My background is unusual — years as a professional bassist before moving full-time into security — and it's where the discipline, precision, and calm-under-pressure come from.
 
-## 🚀 About Me
-I am a **Cybersecurity Master's student** with a background in professional music. I bring the same **precision, rhythm, and discipline** from the stage to the terminal.
-
-Currently focused on **Cloud Security Automation**, **Digital Forensics**, and **Network Defense**.
-
-- 🔭 **Working on:** [Cloud Security Automation](https://github.com/CyberBass051/cloud-security-automation) (Python & Bash)
-- 🎓 **Studying:** CompTIA Network+ & Google Cybersecurity Cert
-- 🎸 **Fun Fact:** I play bass on cruise ships while hacking the planet (legally).
-
-## 🛠️ Tech Stack
+🔐 Focus: AWS security automation, Infrastructure as Code, DevSecOps, policy-as-code
+🎯 Also hands-on in: web pentesting, phishing simulation, digital forensics
+🚀 Co-founder of AparCar — a real-time parking-exchange app on an AWS serverless backend
+🎓 MSc in Cybersecurity (Pentesting & Forensics) — Grupo Atrium
+📍 Based in Málaga, Spain
+🛠️ Tech Stack
 <div align="center">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cybersecurity-FF0000?style=for-the-badge&logo=security&logoColor=white" />
-</div>
 
-## 📈 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CyberBass051&show_icons=true&theme=tokyonight&hide_border=true" />
+Show Image Show Image Show Image Show Image Show Image Show Image Show Image
+
+Security tooling: Wazuh · Trivy · Checkov · Kali Linux · nmap · Burp Suite · GoPhish · Wireshark · policy-as-code
+
 </div>
+📌 Featured Projects
+☁️ Cloud Security & DevSecOps
+Project	What it does
+serverless-secure-codepipeline	Self-referential hardened CI/CD: API Gateway → Lambda with HMAC-SHA256 signature verification, secrets in Secrets Manager, dev → manual approval → prod promotion.
+wazuh-auto-scaling	Terraform-deployed auto-scaling Wazuh fleet behind an ALB — private subnets, IMDSv2 enforced, KMS-encrypted secrets, plus a policy-as-code remediation toolkit.
+alb-asg-ec2	Highly available, scalable AWS architecture in Terraform: ALB + Auto Scaling Group with target-tracking policies.
+iam-audit-tool	Automated IAM least-privilege auditor (MFA + key rotation), run on a schedule via GitHub Actions with structured JSON reporting.
+ha-rds-inventory	Serverless, event-driven high-availability RDS architecture built around Aurora Serverless v2.
+vulnerability-management-and-risk-remediation	Python CLI that ingests vulnerability scan reports and produces severity/owner breakdowns, a CVE-to-remediation plan, and prioritized alerts.
+🛡️ Offensive Security & Forensics
+Project	What it does
+reconocimiento-fingerprinting-web	Full reconnaissance & fingerprinting engagement on an authorized target — OSINT, DNS, fingerprinting and nmap, findings mapped to security impact.
+informe-simulacion-phishing	End-to-end phishing campaign built in an isolated lab (GoPhish + custom Python SMTP), with kill-chain analysis, Wireshark traffic review, and mitigations.
+📊 GitHub Stats
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=CyberBass051&show_icons=true&theme=tokyonight&hide_border=true" /> </div>
+📫 Contact
+
+📧 pietroolivieri.bass@gmail.com
 
 ## 📫 Connect
 <div align="center">
